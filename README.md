@@ -6,7 +6,6 @@ I am interested in the field of cyber security.
 I enjoy spending time on the TryHackMe platform and listening to music without words.
 
 How to reach me: https://www.linkedin.com/in/tugba--arslan/
-
 Link to my Medium account: https://medium.com/@tugba.arslan9744
 
 <!--
